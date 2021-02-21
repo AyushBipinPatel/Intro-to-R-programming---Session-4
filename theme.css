@@ -1,0 +1,13 @@
+.small{font-size: 50%}
+
+.smaller{font-size: 28%}
+
+.big{font-size: 150%}
+
+.tiny{font-size: 25%}
+
+.yscroll{
+  
+  height: 80%;
+  overflow-y: scroll;
+}
